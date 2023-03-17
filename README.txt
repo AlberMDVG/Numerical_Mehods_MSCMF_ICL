@@ -1,1 +1,1 @@
-This files correspond to the coursework for the module Numerical Methods in Finance given by Dr. Christopher Salvi. The authors of this work are David Malone, Pablo Gómez and Alberto Moreno de Vega. The main objective is price derivatives under lattice methods and finite difference schemes.
+This files correspond to the coursework for the module Numerical Methods in Finance given by Dr. Salvi. The authors of this work are David Malone, Pablo Gómez and Alberto Moreno de Vega. The main objective is price derivatives under lattice methods and finite difference schemes.
